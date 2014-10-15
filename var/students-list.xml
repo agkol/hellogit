@@ -28,5 +28,13 @@
         <email>almera7@interia.eu</email>
         <github>almera7</github>
         <group>KrDzia3012</group>
+ </student>
+ <student>
+        <firstname>Agnieszka</firstname>
+        <lastname>Kolasa</lastname>
+        <email>agnieszka.kolasa11@gmail.com</email>
+        <github>agkol</github>
+        <group>KrDzia3011</group>
     </student>
+    
 </students>
